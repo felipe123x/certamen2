@@ -1,0 +1,30 @@
+img {
+  width: 20em;
+}
+
+#primera {
+  display: flex;
+  margin: 3em;
+}
+
+#primera li {
+  margin-right: 2em;
+}
+
+#grupo2 {
+  border: black 2px solid;
+}
+
+#h6 {
+  margin: 2em;
+}
+
+#formulario2 {
+  border: black 2px solid;
+}
+
+form ul {
+  list-style-type: none;
+}
+
+/*# sourceMappingURL=estilos.css.map */
